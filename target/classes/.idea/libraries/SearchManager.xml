@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SearchManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SearchManager/out/artifacts/SearchManager_jar/SearchManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
